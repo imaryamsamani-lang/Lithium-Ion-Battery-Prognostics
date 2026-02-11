@@ -61,7 +61,7 @@ Please cite the original work if you use this code or adapt parts of it in your 
 ```bash
 @article{Namdari2022BatteryRL,
   title={Lithium‐Ion Battery Prognostics through Reinforcement Learning Based on Entropy Measures},
-  author={Namdari, Alireza and Samani, Maryam Asad and Durrani, Tariq S.},
+  author={Namdari, Alireza and Asad Samani, Maryam and Durrani, Tariq S.},
   journal={Algorithms},
   year={2022},
   volume={15},
